@@ -9,7 +9,7 @@ are searchable OCR-processed scans that contain a lot of hidden text.
 Since we want to tell apart all of these categories, we need a tool to detect them. Thus this tool.
 
 ## Usage
-
+To build the package run `mvn package -Pfatjar`.
 In order to run use `java -jar`:
 
 `java -jar digital-born-pdf-scanner-0.0.1-SNAPSHOT-jar-with-dependencies.jar`
